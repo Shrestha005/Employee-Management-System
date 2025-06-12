@@ -1,5 +1,3 @@
-Absolutely, Shrestha! Below is the **complete and ready-to-paste `README.md`**. This version includes everything — tech stack, features, setup instructions, and screenshot references.
-
 ---
 
 > ✅ **Before pushing this to GitHub**, make sure:
