@@ -74,3 +74,9 @@ javac employee/management/system/*.java
 java employee.management.system.Splash
 ```
 
+
+
+![image alt](https://github.com/Shrestha005/Employee-Management-System/blob/5d6e98d94076db2cb577190df4c4aa0e074e8b57/1.jpg)
+
+
+![image alt](https://github.com/Shrestha005/Employee-Management-System/blob/5d6e98d94076db2cb577190df4c4aa0e074e8b57/2.jpg)
