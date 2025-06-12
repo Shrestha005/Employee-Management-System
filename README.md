@@ -5,10 +5,6 @@
   A Java Swing and MySQL-based desktop application to manage employee records with ease.
 </p>
 
-<p align="center">
-  <img src="screenshots/3.jpg" alt="Main Dashboard" width="600"/>
-</p>
-
 ---
 
 ## 🚀 Features
