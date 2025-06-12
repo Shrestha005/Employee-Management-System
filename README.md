@@ -80,3 +80,18 @@ java employee.management.system.Splash
 
 
 ![image alt](https://github.com/Shrestha005/Employee-Management-System/blob/5d6e98d94076db2cb577190df4c4aa0e074e8b57/2.jpg)
+
+
+![image alt](https://github.com/Shrestha005/Employee-Management-System/blob/ebbc9363f5e55c042270546b369c53ce8175d86d/3.jpg)
+
+
+![image alt](https://github.com/Shrestha005/Employee-Management-System/blob/ebbc9363f5e55c042270546b369c53ce8175d86d/4.jpg)
+
+
+![image alt](https://github.com/Shrestha005/Employee-Management-System/blob/ebbc9363f5e55c042270546b369c53ce8175d86d/5.jpg)
+
+
+![image alt](https://github.com/Shrestha005/Employee-Management-System/blob/ebbc9363f5e55c042270546b369c53ce8175d86d/6.jpg)
+
+
+![image alt](https://github.com/Shrestha005/Employee-Management-System/blob/ebbc9363f5e55c042270546b369c53ce8175d86d/7.jpg)
