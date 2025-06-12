@@ -1,15 +1,3 @@
----
-
-> ✅ **Before pushing this to GitHub**, make sure:
->
-> * All 7 images (`1.jpg` to `7.jpg`) are placed in a folder called `screenshots/` inside your project directory.
-> * You commit both the `README.md` and the `screenshots/` folder to GitHub.
-
----
-
-### ✅ Copy the following and paste it into your `README.md`:
-
-````md
 # Employee Management System
 
 <h1 align="center">Employee Management System</h1>
@@ -90,44 +78,3 @@ javac employee/management/system/*.java
 java employee.management.system.Splash
 ```
 
----
-
-## 📸 Project Screenshots
-
-### Splash Screen
-
-![Splash Screen](screenshots/1.jpg)
-
-### Login Page
-
-![Login Page](screenshots/2.jpg)
-
-### Home Dashboard
-
-![Home Dashboard](screenshots/3.jpg)
-
-### Add Employee Form
-
-![Add Employee](screenshots/4.jpg)
-
-### View Employee Page
-
-![View Employee](screenshots/5.jpg)
-
-### Remove Employee Page
-
-![Remove Employee](screenshots/6.jpg)
-
-### Confirmation Message
-
-![Confirmation Message](screenshots/7.jpg)
-
-
-Once you’ve done this, follow these steps in Git Bash / terminal from inside your project folder:
-
-```bash
-mkdir screenshots
-# Then manually copy all your 1.jpg to 7.jpg into the screenshots folder
-git add screenshots/ README.md
-git commit -m "Added screenshots and final README"
-git push
